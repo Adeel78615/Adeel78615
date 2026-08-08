@@ -1,22 +1,4 @@
 <div align="center">
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake.svg"
-    />
-  </picture>
-</p>
 
 <a href="https://capsule-render.vercel.app/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=Adeel%20Khurram&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
@@ -515,24 +497,7 @@ Future Learning Focus
 🐍 Contribution Snake
 
 <div align="center">
-## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake.svg"
-    />
-  </picture>
-</p>
 <img src="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
