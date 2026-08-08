@@ -494,11 +494,15 @@ Future Learning Focus
 
 </div>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Adeel78615/Adeel78615/output/github-snake.svg">
+</picture>
 
 </div>
 
