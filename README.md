@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://github.com/Adeel78615">
+<a href="[https://github.com/Adeel78615](https://portfolio-main-adeel.vercel.app/)">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/adeel-qureshi-662b72300/">
